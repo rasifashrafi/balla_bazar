@@ -1,0 +1,10 @@
+.carousel-inner img {
+    width: 100vw;
+    height: 100vh;
+}
+
+.item {
+    display: none;
+    position: relative;
+    transition:(.4s ease-in-out left);
+}
